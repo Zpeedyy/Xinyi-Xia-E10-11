@@ -1,0 +1,87 @@
+@charset "utf-8";
+/* CSS Document */
+p{
+	
+	color:navy;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 400px;
+	background-color: lightgoldenrodyellow;
+	padding: 20px;
+	opacity: 50;
+	
+  }
+
+.quote{
+	
+	color:navy;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 300px;
+	background-color: lightgoldenrodyellow;
+	padding: 20px;
+	opacity: 50;
+	
+  }
+
+
+h1, h2, h3{
+	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	color:indigo;
+	
+  }
+	
+span{color:darkred;}
+
+
+
+.cuerpo{
+	
+	background-image: url("Images/01.jpeg");
+	
+    }
+
+.cosa{
+	
+	background-color: lightsalmon;
+	
+     }
+
+.paragraph_2{color:navy; background-color:rgba(255, 255, 255, 0.5);}
+
+.otracosa{
+	
+	color:navy; background-color:rgba(255, 255, 255, 0.5);
+	padding: 20px;
+	margin:20px;
+	width:50%;
+	
+}
+
+a:link {
+	
+	color:orangered;
+	font-size: 20px;
+	background-color: lightsteelblue;
+	padding: 9px;
+	line-height: 50px;
+	border:1px solid #000000;
+	
+ }
+
+a:hover{
+	
+		background-color: limegreen;
+	
+	   }
+
+img{
+	
+	height:400px;
+	
+   }
+
+ 
